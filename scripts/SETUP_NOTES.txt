@@ -1,0 +1,15 @@
+# Setup instructions
+
+# 1. Open Supabase SQL Editor:
+#    https://app.supabase.com/project/ibzbznhkowqnehbvcctk/sql/new
+
+# 2. Copy the contents of supabase/migrations/0001_init.sql
+#    Paste and click "Run"
+
+# 3. Create admin user:
+#    Authentication -> Users -> Add user -> Create new user
+#    Use your email and the password you set
+
+# 4. Start dev server:
+#    npm run dev
+#    Visit http://localhost:3000/admin/login
